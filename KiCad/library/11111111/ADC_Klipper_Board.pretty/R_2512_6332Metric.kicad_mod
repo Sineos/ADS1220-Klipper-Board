@@ -1,0 +1,232 @@
+(footprint "R_2512_6332Metric"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
+	(tags "resistor")
+	(property "Reference" "REF**"
+		(at 0 -2.62 0)
+		(layer "F.SilkS")
+		(uuid "af7fab62-7e6d-47e4-af69-7368dd91ca21")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "2.0k"
+		(at 0 2.62 0)
+		(layer "F.Fab")
+		(uuid "a5ae1151-dfad-437f-89e2-2a6a9e02d8ac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "Resistor_SMD:R_2512_6332Metric"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9fcf9ba6-3f59-445b-9afe-41467317f33f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "AC2512JK-072KL"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e7521c16-d6fa-4c6c-bbd7-a531d7803341")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Resistor"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "300c9936-2607-4eba-9299-c4594c3c0320")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "Yageo"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a752b8f3-591f-472d-9665-850c469a627d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C231011"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9adb31d7-d9a3-4c4e-b46e-49fcb7470a11")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.177064 -1.71)
+		(end 2.177064 -1.71)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "619df6a5-c441-4956-baa9-aac89a91beb9")
+	)
+	(fp_line
+		(start -2.177064 1.71)
+		(end 2.177064 1.71)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "393c5d2c-38b3-4a7f-b4b8-0d87c52f9d6d")
+	)
+	(fp_line
+		(start -3.82 -1.92)
+		(end 3.82 -1.92)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "52fee075-934b-480a-99ec-ea0af17eb75f")
+	)
+	(fp_line
+		(start -3.82 1.92)
+		(end -3.82 -1.92)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9ca50f4a-30f0-4d4d-ab21-9891416f9d79")
+	)
+	(fp_line
+		(start 3.82 -1.92)
+		(end 3.82 1.92)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3270463f-a9d5-4aa4-9a33-d6406bbaa421")
+	)
+	(fp_line
+		(start 3.82 1.92)
+		(end -3.82 1.92)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e4668e0d-16f8-4507-8aa6-58ba57505b82")
+	)
+	(fp_line
+		(start -3.15 -1.6)
+		(end 3.15 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2e401d76-06dd-437d-8c9d-8c9c14fbb0a7")
+	)
+	(fp_line
+		(start -3.15 1.6)
+		(end -3.15 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "489208c2-706c-43ca-a6d0-30cb8ac4e39b")
+	)
+	(fp_line
+		(start 3.15 -1.6)
+		(end 3.15 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "acd90657-f359-4e49-8270-97fc8d70f298")
+	)
+	(fp_line
+		(start 3.15 1.6)
+		(end -3.15 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0a3dda38-716e-47d3-befd-110fb3260cc9")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "85a54fc7-a76d-44bd-99f2-99361500dd9c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -2.9625 0)
+		(size 1.225 3.35)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.204082)
+		(uuid "37dda970-f68d-43cd-9c88-73e7255e3272")
+	)
+	(pad "2" smd roundrect
+		(at 2.9625 0)
+		(size 1.225 3.35)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.204082)
+		(uuid "9e370a13-82c1-41da-bab3-6355bc7324ad")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_2512_6332Metric.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

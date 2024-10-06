@@ -1,0 +1,110 @@
+(footprint "MountingHole_3.2mm_M3_ISO7380"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Mounting Hole 3.2mm, no annular, M3, ISO7380")
+	(tags "mounting hole 3.2mm no annular m3 iso7380")
+	(property "Reference" "REF**"
+		(at -3.5 2.5 0)
+		(layer "F.SilkS")
+		(uuid "7f14331e-8d9f-4e00-bdfb-07417135608f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MountingHole"
+		(at 0 3.85 0)
+		(layer "F.Fab")
+		(uuid "5d1b4c80-445a-4bd5-aab9-46c589a2d616")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "MountingHole:MountingHole_3.2mm_M3_ISO7380"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f9d57cfe-8815-42b0-b900-1b5b0b006c73")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9aefda68-c4d8-4912-b181-5de935d261f8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Mounting Hole without connection"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "49bd150c-535f-4298-8ed2-4540e2ee0f5d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_circle
+		(center 0 0)
+		(end 2.85 0)
+		(stroke
+			(width 0.15)
+			(type solid)
+		)
+		(fill none)
+		(layer "Cmts.User")
+		(uuid "fa548f97-ff33-43c0-b1d3-f7bb9fff223f")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 3.1 0)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "2ba65d7c-1023-4bb0-9236-58bd0f89bb52")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.825 -1.95 0)
+		(layer "F.Fab")
+		(uuid "fa1a7278-1292-4e6a-b407-259297c4aa31")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 3.2 3.2)
+		(drill 3.2)
+		(layers "*.Cu" "*.Mask")
+		(uuid "4ba4f57d-ad77-4d67-b7a8-8248ac4e6d04")
+	)
+)

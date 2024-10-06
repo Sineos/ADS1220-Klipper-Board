@@ -1,0 +1,528 @@
+(footprint "SWITCH_43SMTR92LFS"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(tags "PTS645SM43SMTR92LFS ")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "1c996e1d-cb1a-405f-8153-c57cd355182e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "PTS645SM43SMTR92_LFS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "6e2303c6-961b-47da-9f15-fb00de224e73")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" "PTS645SM43SMTR92_LFS:SWITCH_43SMTR92LFS"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b6062768-5276-4a56-ac6e-4a3e5f2baf04")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.ckswitches.com/media/1471/pts645.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a5123578-df8a-4d2b-96f5-9be662b2f39f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "SWITCH TACTILE SPST-NO 0.05A 12V"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "aa721d6f-e8b6-467d-944c-603ba23daffe")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Digi-Key_PN" "CKN9112CT-ND"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "243db528-448f-43a2-87f5-28c69c4b95c4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "PTS645SM43SMTR92 LFS"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "513903a3-1312-48fe-a3ba-42d6dc0a6e00")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Category" "Switches"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c173eba3-7bd6-4ee6-845b-56eadc7e4eea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Family" "Tactile Switches"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b44ef4ce-b879-4134-b0e1-31ec648aa701")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DK_Datasheet_Link" "https://www.ckswitches.com/media/1471/pts645.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "785f93eb-ac19-41b4-b5cc-28e4983b5c32")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "DK_Detail_Page" "/product-detail/en/c-k/PTS645SM43SMTR92-LFS/CKN9112CT-ND/1146934"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "983501ec-7420-4663-b800-92a6196c80e7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "SWITCH TACTILE SPST-NO 0.05A 12V"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b427f8d3-12da-4104-a1df-c6817cc0a8c7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer" "C&K"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3fe328b8-c938-487d-8921-31ecd76af002")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Status" "Active"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b20e313-10aa-412c-b4a3-904efdbb7b36")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC" "C221880"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c5471206-2506-4c5d-93df-1e803a148ec2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -4.064 -4.064)
+		(end -3.937 -4.064)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill none)
+		(layer "B.SilkS")
+		(uuid "cefca16c-1890-4853-a4a7-656e2db972f5")
+	)
+	(fp_line
+		(start -3.1242 -1.278379)
+		(end -3.1242 1.278379)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "70cbc2e3-5a14-41cc-aa28-818817c3f9c1")
+	)
+	(fp_line
+		(start -2.956549 3.1242)
+		(end 2.956549 3.1242)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b85e4176-1f5b-4c0d-86e0-d3931bb786a5")
+	)
+	(fp_line
+		(start 2.956549 -3.1242)
+		(end -2.956549 -3.1242)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5bd67cef-3ea3-4144-b437-09966064fb94")
+	)
+	(fp_line
+		(start 3.1242 1.278379)
+		(end 3.1242 -1.278379)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d5cb5608-0dd8-43ea-a76c-c644d5156aeb")
+	)
+	(fp_circle
+		(center -4.064 -4.064)
+		(end -3.937 -4.064)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "d6774cc1-2a48-4c92-83b5-1824ed0e5f14")
+	)
+	(fp_line
+		(start -5.0037 -3.151701)
+		(end -3.2512 -3.151701)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fcae1c23-7dac-4957-9a35-be2006556c0a")
+	)
+	(fp_line
+		(start -5.0037 3.151701)
+		(end -5.0037 -3.151701)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c9ab9f1a-208c-474c-9b66-64c573ba5c82")
+	)
+	(fp_line
+		(start -5.0037 3.151701)
+		(end -3.2512 3.151701)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cecb361b-2097-4ca1-a2cc-f06213d98e0e")
+	)
+	(fp_line
+		(start -3.2512 -3.2512)
+		(end 3.2512 -3.2512)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5d4496d9-b12c-4e6b-88ab-37a962779418")
+	)
+	(fp_line
+		(start -3.2512 -3.151701)
+		(end -3.2512 -3.2512)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6ae2a0be-3b5b-4c15-9183-4d3588f86907")
+	)
+	(fp_line
+		(start -3.2512 3.2512)
+		(end -3.2512 3.151701)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f7258797-b533-486d-94b0-57caf09f92a3")
+	)
+	(fp_line
+		(start 3.2512 -3.2512)
+		(end 3.2512 -3.151701)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6b0d9402-95ed-4ca8-9c1d-7095db73d8e1")
+	)
+	(fp_line
+		(start 3.2512 3.151701)
+		(end 3.2512 3.2512)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2adb9078-687c-436c-9802-1e28d1210602")
+	)
+	(fp_line
+		(start 3.2512 3.2512)
+		(end -3.2512 3.2512)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "10f79eee-5bbe-4918-9a32-e948799f4917")
+	)
+	(fp_line
+		(start 5.0037 -3.151701)
+		(end 3.2512 -3.151701)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5c058225-c957-4787-8079-a692441a11b0")
+	)
+	(fp_line
+		(start 5.0037 -3.151701)
+		(end 5.0037 3.151701)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "762bb5b6-5589-41e1-a13a-3d4078f2395a")
+	)
+	(fp_line
+		(start 5.0037 3.151701)
+		(end 3.2512 3.151701)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "493ee514-68b2-424b-8096-f1de2cce4a30")
+	)
+	(fp_line
+		(start -3.975 2.250001)
+		(end -3.975 2.250001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "669cdf74-cc11-4d52-b050-a7694ea51aae")
+	)
+	(fp_line
+		(start -2.9972 -2.9972)
+		(end -2.9972 2.9972)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9431b07f-5e2b-42f7-8ac1-38082df8ce7f")
+	)
+	(fp_line
+		(start -2.9972 -2.250001)
+		(end -2.9972 -2.250001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fc9f3e1f-b24c-43ee-aad7-915b04733c6f")
+	)
+	(fp_line
+		(start -2.9972 2.250001)
+		(end -2.9972 2.250001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "02ec5a10-cfe1-47f5-a86b-6fbe3818fe80")
+	)
+	(fp_line
+		(start -2.9972 2.9972)
+		(end 2.9972 2.9972)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "29aa504c-5079-4621-a91a-f970a75e6b3b")
+	)
+	(fp_line
+		(start 2.9972 -2.9972)
+		(end -2.9972 -2.9972)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "19a8730c-b821-48c1-92be-3814bdba5635")
+	)
+	(fp_line
+		(start 2.9972 -2.250001)
+		(end 2.9972 -2.250001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "db36628e-7e28-48ab-bf4e-f93461ea841e")
+	)
+	(fp_line
+		(start 2.9972 2.250001)
+		(end 2.9972 2.250001)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1ac7e47f-2cac-484d-a883-7fcce29f9259")
+	)
+	(fp_line
+		(start 2.9972 2.9972)
+		(end 2.9972 -2.9972)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2ad5732b-9776-45fc-8d49-d33ee44a5702")
+	)
+	(fp_circle
+		(center -2.54 -2.286)
+		(end -2.413 -2.286)
+		(stroke
+			(width 0.254)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "1f0c7da2-f0b4-4c3b-a9ed-4c707113af19")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 1.7526 0)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill none)
+		(layer "F.Fab")
+		(uuid "5a770f10-9d9b-48e2-80c7-b4f4485a582f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f32728f8-8a84-4794-87c8-246552314d65")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -3.974998 -2.250001)
+		(size 1.5494 1.2954)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "397dc359-824a-4509-9dde-e0f995d02327")
+	)
+	(pad "2" smd rect
+		(at 3.974998 -2.250001)
+		(size 1.5494 1.2954)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "984a4221-cf08-4847-a37a-dfbcf33dfb3f")
+	)
+	(pad "3" smd rect
+		(at -3.974998 2.250001)
+		(size 1.5494 1.2954)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "74a41408-fcde-4f61-be9f-7dbd8a99268e")
+	)
+	(pad "4" smd rect
+		(at 3.974998 2.250001)
+		(size 1.5494 1.2954)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "af70a7b6-0815-4910-bb70-efa661b52b56")
+	)
+)
